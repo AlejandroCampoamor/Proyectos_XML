@@ -1,0 +1,55 @@
+<!--
+Nombre: Alejandro Campoamor
+Curso: ASIR1
+Fecha: 25/03/2025
+Ejercicio: Ejercicio 4
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ciclos>
+    <ciclo>
+        <nombreciclo> DAW </nombreciclo>
+        <modulos>
+            <modulo>
+                <nombremodulo> Lenguaje de Marcas <nombremodulo>
+                <caracter> Obligatorio </caracter>
+                <horas> 4 </horas>
+                <fechainicio> 15/09/2023 </fechainicio>
+                <fechafinal> 22/06/2024 </fechafinal>
+                <alumnos>
+                    <alumno>
+                        <nombrealumno> Ana Fernández Gutiérrez </nombrealumno>
+                        <dni> 51623487V </dni>
+                        <telefono> 666544566 </telefono>
+                        <email> anafernandez@gmail.com </email>
+                        <faltas> </faltas>
+                        <notas> </notas>
+                        <provincia>
+                            <nombreprovincia> Madrid </nombreprovincia>
+                            <localidad>
+                                <nombrelocalidad> Getafe </nombrelocalidad>
+                                <CP> 28905 </CP>
+                                <direccion>C/ Amatista, 14 </direccion>
+                            </localidad>
+                        </provincia>
+                    </alumno>
+                    <alumno>
+                        <nombrealumno>Carlos López Sánchez </nombrealumno>
+                        <dni> 52369874B </dni>
+                        <telefono> 666455477 </telefono>
+                        <email>carloslopez@gmail.com </email>
+                        <faltas> 0 </faltas>
+                        <notas> apto </apto>
+                        <provincia>
+                            <nombreprovincia> Madrid </nombreprovincia>
+                            <localidad>
+                                <nombrelocalidad>Getafe</nombrelocalidad>
+                                <CP> 28905 </CP>
+                                <direccion> C/Ópalo, 15 </direccion>
+                            </localidad>
+                </alumnos>
+            </modulo>
+        </modulos>
+    </ciclo>
+</ciclos>

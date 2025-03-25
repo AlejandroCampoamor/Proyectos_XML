@@ -1,0 +1,40 @@
+<!--
+Nombre: Alejandro Campoamor
+Curso: ASIR1
+Fecha: 25/03/2025
+Ejercicio: Ejercicio 2
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipos>
+    <equipo>
+        <nombre>Atletico de Madrid</nombre>
+        <ciudad> Madrid </ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador posicion="Delantero">
+                <nombre> Julian Alvarez </nombre>
+                <nacionalidad> Argentina </nacionalidad>
+            </jugador>
+            <jugador posicion="Defensa">
+                <nombre> José María Giménez </nombre>
+                <nacionalidad> Uruguay </nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre> Real Madrid </nombre>
+        <ciudad> Madrid </ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre> Thibaut Courtois </nombre>
+                <nacionalidad> Bélgica </nacionalidad>
+            </jugador>
+            <jugador posicion="Medio">
+                <nombre> Luka Modric </nombre>
+                <nacionalidad> Croacia </nacionalidad>
+            </jugador>
+        </jugadores>
+</equipos>

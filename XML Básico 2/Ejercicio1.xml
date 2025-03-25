@@ -1,0 +1,25 @@
+<!--
+Nombre: Alejandro Campoamor
+Curso: ASIR1
+Fecha: 25/03/2025
+Ejercicio: Ejercicio 1
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Paginas>
+    <pagina>
+        <nombre> W3Schools </nombre>
+        <descripcion> Tutoriales de informatica </descripcion>
+        <URL> https://www.w3schools.com/ </URL>
+    </pagina>
+    <pagina>
+        <nombre> Wikipedia </nombre>
+        <descripcion> La enciclopedia libre </descripcion>
+        <URL> https://www.wikipedia.org/ </URL>
+    </pagina>
+    <pagina>
+        <nombre> W3C </nombre>
+        <descripcion> World Wide Web Consortium </descripcion>
+        <URL> http://www.w3.org/ </URL>
+    </pagina>
+</paginas>
